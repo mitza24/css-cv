@@ -1,0 +1,45 @@
+
+.content,
+header div{
+  max-width:700px;
+  margin: 0 auto;
+  background: orange;
+}
+
+section {
+  float: left;
+  margin: auto; 
+  width: 50%;
+  background: green;
+}
+
+header{
+  background: grey;
+}
+
+section p{
+  padding:10px;
+}
+
+.experience .experience-details,
+.experience h4{
+  margin-left:10px;
+}
+
+#competencies{
+  height:300px; /* TEMPORARY */
+}
+
+#hobbies {
+  float: left;
+  margin: auto;
+  width: 48%;
+  div {
+    clear: left;
+  }
+  
+hgroup{
+    background-color:grey;
+      color: red;
+    }
+    

@@ -1,0 +1,35 @@
+
+
+
+/*
+
+section {
+
+  float: right;   
+  margin: auto; 
+}
+#about {
+ float: left;
+ margin: auto;
+ width: 20%
+ display: block;
+ overflow: hidden;
+}
+#experiences {
+  float: left;
+  margin: 0 1.5%
+}
+#hobbies {
+  float: left;
+  margin: 0 1.5%}
+  div {
+    clear: left;
+  }
+  
+hgroup{
+    background-color:grey;
+      color: red;
+    }
+    
+    
+*/
